@@ -10,6 +10,3 @@ Staff:
 
 * **Vincent** - *Programmer* - [Techiesplash](https://github.com/Techiesplash)
 * **Starr** - *Artist* - [StarrDraws](https://github.com/StarrDraws)
-
-![Techiesplash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techiesplash&show_icons=true)
-![StarrDraws' GitHub stats](https://github-readme-stats.vercel.app/api?username=StarrDraws&show_icons=true)
