@@ -1,10 +1,10 @@
-Check here later - We're working on our 2D game engine, a fork of Maddy Thorson's Monocle, and will post it under the MIT License!
+Check here later - We're working on our 2D engine setup, a version of Maddy Thorson's Monocle (Used in Celeste and Towerfall), and will post it under the MIT License!
 
-Starlight will support Windows, Linux, MacOS, Android, and more.
+It will support Windows, Linux, MacOS, Android, and more.
 
 We plan to use this for commercial games in the future.
 
-(Here's hoping we can get it ready by Ludum Dare 53/54!)
+(Here's hoping we can get it ready by Ludum Dare 54!)
 
 Staff:
 
