@@ -1,4 +1,4 @@
-Check here later - We're working on our 2D game engine named "Starlight", and will post it under the MIT License!
+Check here later - We're working on our 2D game engine, a fork of Maddy Thorson's Monocle, and will post it under the MIT License!
 
 Starlight will support Windows, Linux, MacOS, Android, and more.
 
