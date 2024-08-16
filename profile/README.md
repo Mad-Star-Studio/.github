@@ -1,5 +1,8 @@
 ## Staff:
-*Programmer* - [Techiesplash](https://github.com/Techiesplash) :: *Artist and Director* - [StarrDraws](https://github.com/StarrDraws)
+
+[Techiesplash](https://github.com/Techiesplash) - *Programmer and System Technician*
+
+[StarrDraws](https://github.com/StarrDraws) - *Artist and Executive Director*
 
 ---
 
