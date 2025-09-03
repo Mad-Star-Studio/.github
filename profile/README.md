@@ -4,7 +4,7 @@
 
 [StarrDraws](https://github.com/StarrDraws) - *Artist and Executive Director*
 
-*We're more active on our [Forgejo](https://git.smgames.club/mss)!
+*We're more active on our [Forgejo](https://git.smgames.club/mss)!*
 
 ---
 
